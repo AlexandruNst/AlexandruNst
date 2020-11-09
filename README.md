@@ -1,5 +1,5 @@
 <div>
-    <h1>Hi👋 I'm Alex <img align="right" src="img/hero.svg" width="400"> </h1>
+    <h1>Hi👋 I'm Alex <img align="right" src="img/hero.svg" width="60%"> </h1>
     
 </div>
 <!--
