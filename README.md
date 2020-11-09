@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi👋 <img align="right" src="img/hero.svg" width="400"> I'm Alex
 
 <!--
 **AlexandruNst/AlexandruNst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
