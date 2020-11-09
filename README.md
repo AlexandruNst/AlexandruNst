@@ -30,39 +30,40 @@
 <br>
 <br>
 <h1 align="center"> What I enjoy</h1>
+<br>
 <div>
     <table>
         <tr>
             <td>
-                <p>
+                <h3>
                     Software Development
-                </p>
+                </h3>
                 <p>
                     Learning software development allows me to be creative, solve problems and have new ideas.
                 </p>
             </td>
             <td>
-                 <p>
-                    Software Development
-                </p>
+                 <h3>
+                    UI & UX Design
+                </h3>
                 <p>
-                    Learning software development allows me to be creative, solve problems and have new ideas.
+                    I enjoy creating digital experiences centered on the users and their interactions.
                 </p>
             </td>
             <td>
-                 <p>
-                    Software Development
-                </p>
+                 <h3>
+                    Public speaking
+                </h3>
                 <p>
-                    Learning software development allows me to be creative, solve problems and have new ideas.
+                    Public speaking allows me to meet new people and keeps me engaged, motivated and creative.
                 </p>
             </td>
             <td>
-                 <p>
-                    Software Development
-                </p>
+                 <h3>
+                    Photography
+                </h3>
                 <p>
-                    Learning software development allows me to be creative, solve problems and have new ideas.
+                    Photography lets me capture and immortalise the most imporant moments in my life.
                 </p>
             </td>
         </tr>
