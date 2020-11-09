@@ -22,6 +22,8 @@
         </li>
     </ul>
 </div>
+<h1 align="center"> What I enjoy</h1>
+
 <!--
 **AlexandruNst/AlexandruNst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
