@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👋 I'm Alex</h1>
 <div>
-    <h2>About me <img align="right" src="img/hero.svg" width="60%"> </h2>
+    <h2>About me <img align="right" src="img/hero.svg" width="50%"> </h2>
     <ul>
         <li>
             🔭 Aspiring Front-End Developer
