@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👋 I'm Alex</h1>
 <div>
-    <h2 align="center">About me <img align="right" src="img/hero.svg" width="50%"> </h2>
+    <h2 align="center">About me <img align="right" src="img/hero.svg" width="40%"> </h2>
     <br>
     <ul>
         <li>
