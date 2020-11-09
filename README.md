@@ -1,13 +1,15 @@
 <h1 align="center"> Hi👋 I'm Alex</h1>
 <div>
-    <h2 align="center">About me <img align="right" src="img/hero.svg" width="50%"> </h2>
+    <h2 align="center"><img align="right" src="img/hero.svg" width="50%"> </h2>
     <br>
+    <br>
+    <h2 align="center">About me </h2>
     <ul>
         <li>
             🔭 Aspiring Front-End Developer
         </li>
         <li>
-            🌱 Currently learning: React.js
+            🌱 Currently learning: ReactJS
         </li>
         <li>
             💻 Creative coder
