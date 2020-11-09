@@ -30,6 +30,44 @@
 <br>
 <br>
 <h1 align="center"> What I enjoy</h1>
+<div>
+    <table>
+        <tr>
+            <td>
+                <p>
+                    Software Development
+                </p>
+                <p>
+                    Learning software development allows me to be creative, solve problems and have new ideas.
+                </p>
+            </td>
+            <td>
+                 <p>
+                    Software Development
+                </p>
+                <p>
+                    Learning software development allows me to be creative, solve problems and have new ideas.
+                </p>
+            </td>
+            <td>
+                 <p>
+                    Software Development
+                </p>
+                <p>
+                    Learning software development allows me to be creative, solve problems and have new ideas.
+                </p>
+            </td>
+            <td>
+                 <p>
+                    Software Development
+                </p>
+                <p>
+                    Learning software development allows me to be creative, solve problems and have new ideas.
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>
 
 <!--
 **AlexandruNst/AlexandruNst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
