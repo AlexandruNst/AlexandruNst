@@ -1,9 +1,9 @@
 <h1 align="center"> Hi👋 I'm Alex</h1>
 <div>
-    <h2 align="center"><img align="right" src="img/hero.svg" width="50%"> </h2>
+    <h3 align="center"><img align="right" src="img/hero.svg" width="50%"> </h3>
     <br>
     <br>
-    <h2 align="center">About me </h2>
+    <h2 align="left">💻 About me </h2>
     <ul>
         <li>
             🔭 Aspiring Front-End Developer
@@ -12,7 +12,7 @@
             🌱 Currently learning: ReactJS
         </li>
         <li>
-            💻 Creative coder
+            :bulb: Creative coder
         </li>
         <li>
             🗣 Public speaker
