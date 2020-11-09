@@ -1,6 +1,23 @@
+<h1 align="center"> Hi👋 I'm Alex</h1>
 <div>
-    <h1>Hi👋 I'm Alex <img align="right" src="img/hero.svg" width="60%"> </h1>
-    
+    <h2>About me <img align="right" src="img/hero.svg" width="60%"> </h2>
+    <ul>
+        <li>
+            🔭 Aspiring Front-End Developer
+        </li>
+        <li>
+            🌱 Currently learning: React.js
+        </li>
+        <li>
+            :computer: Creative coder
+        </li>
+        <li>
+            🗣 Public speaker
+        </li>
+        <li>
+            🔥️ Challenge seeker
+        </li>
+    </ul>
 </div>
 <!--
 **AlexandruNst/AlexandruNst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
