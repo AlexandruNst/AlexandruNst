@@ -1,5 +1,9 @@
-## Hi👋 <img align="right" src="img/hero.svg" width="400"> I'm Alex
-
+<div style="display:flex; justify-content:space-between; align-items:center;">
+    <div style="display:flex; justify-content:center; width:100%">
+        <h2>Hi👋 <br> I'm Alex</h2>
+    </div>
+    <img src="img/hero.svg" width="400">
+</div>
 <!--
 **AlexandruNst/AlexandruNst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
