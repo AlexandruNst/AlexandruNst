@@ -72,11 +72,11 @@
 </div>
 
 <h2 align="left"> :zap: Let's talk!</h2>
-    <h2 align="center">
+    <h3 align="center">
         <a href="https://alexnastase.com">
             alexnastase.com
         </a>
-    </h2>
+    </h3>
 <p align="center">
 <a href="https://github.com/AlexandruNst"><img align="center" src="img/github_color.svg" width="5%"</a>
 <a href="https://www.linkedin.com/in/alexandrunst/"><img align="center" src="img/linkedin_color.svg" width="5%"</a>
