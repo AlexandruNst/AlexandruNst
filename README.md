@@ -35,8 +35,8 @@
     <table>
         <tr>
             <td>
-            <img align="center" src="img/web_dev_icon.svg" width="400">
-                <h3>
+            <img align="center" src="img/web_dev_icon.svg">
+                <h3 align="center">
                     Software Development
                 </h3>
                 <p>
@@ -44,8 +44,8 @@
                 </p>
             </td>
             <td>
-                <img align="center" src="img/ui_ux_icon.svg" width="400">
-                 <h3>
+                <img align="center" src="img/ui_ux_icon.svg">
+                 <h3 align="center">
                     UI & UX Design
                 </h3>
                 <p>
@@ -53,8 +53,8 @@
                 </p>
             </td>
             <td>
-                <img align="center" src="img/pub_sp_icon.svg" width="400">
-                 <h3>
+                <img align="center" src="img/pub_sp_icon.svg">
+                 <h3 align="center">
                     Public speaking
                 </h3>
                 <p>
@@ -62,8 +62,8 @@
                 </p>
             </td>
             <td>
-                <img align="center" src="img/photo_icon.svg" width="400">
-                 <h3>
+                <img align="center" src="img/photo_icon.svg">
+                 <h3 align="center">
                     Photography
                 </h3>
                 <p>
