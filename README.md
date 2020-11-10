@@ -3,10 +3,10 @@
     <h3 align="center"><img align="right" src="img/hero.svg" width="400"> </h3>
     <br>
     <br>
-    <h2 align="left">💻 About me </h2>
+    <h2 align="left">💻 About me </h2> 
     <ul>
         <li>
-            🔭 Aspiring Front-End Developer
+            🔭 Aspiring Front-End Developer 
         </li>
         <li>
             🌱 Currently learning: ReactJS
@@ -15,7 +15,7 @@
             :bulb: Creative coder
         </li>
         <li>
-            🗣 Public speaker
+            🗣 Public speaker  <img align="right" src="img/plane.svg" width="15%">
         </li>
         <li>
             🔥️ Challenge seeker
