@@ -71,11 +71,13 @@
     </table>
 </div>
 
-<h2 align="left"> :zap: Let's talk!</h2>
+<h2 align="left"> :speech_balloon: Let's talk!</h2>
     <h3 align="center">
+        :sparkles:
         <a href="https://alexnastase.com">
             alexnastase.com
         </a>
+        :sparkles:
     </h3>
 <p align="center">
 <a href="https://github.com/AlexandruNst"><img align="center" src="img/github_color.svg" width="10%"</a>
