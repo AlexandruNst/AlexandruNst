@@ -35,6 +35,7 @@
     <table>
         <tr>
             <td>
+            <img align="center" src="img/web_dev_icon.svg" width="400">
                 <h3>
                     Software Development
                 </h3>
@@ -43,6 +44,7 @@
                 </p>
             </td>
             <td>
+                <img align="center" src="img/ui_ux_icon.svg" width="400">
                  <h3>
                     UI & UX Design
                 </h3>
@@ -51,6 +53,7 @@
                 </p>
             </td>
             <td>
+                <img align="center" src="img/pub_sp_icon.svg" width="400">
                  <h3>
                     Public speaking
                 </h3>
@@ -59,6 +62,7 @@
                 </p>
             </td>
             <td>
+                <img align="center" src="img/photo_icon.svg" width="400">
                  <h3>
                     Photography
                 </h3>
