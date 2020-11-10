@@ -26,9 +26,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <h2 align="left"> :zap: What I do</h2>
 <br>
 <div>
