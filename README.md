@@ -29,7 +29,7 @@
 <br>
 <br>
 <br>
-<h1 align="center"> What I enjoy</h1>
+<h2 align="left"> :zap: At any given time, I am most probably doing one (or more) of the follwing:</h2>
 <br>
 <div>
     <table>
