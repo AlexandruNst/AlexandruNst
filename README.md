@@ -29,7 +29,7 @@
 <br>
 <br>
 <br>
-<h2 align="left"> :zap: At any given time, I am most probably doing one (or more) of the follwing:</h2>
+<h2 align="left"> :zap: What I do</h2>
 <br>
 <div>
     <table>
