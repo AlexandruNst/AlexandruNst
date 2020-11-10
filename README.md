@@ -1,4 +1,4 @@
-<h1 align="center"> Hi👋 I'm Alex</h1>
+<h1 align="center"> Hi, I'm Alex! 👋</h1>
 <div>
     <h3 align="center"><img align="right" src="img/hero.svg" width="400"> </h3>
     <br>
@@ -70,6 +70,19 @@
         </tr>
     </table>
 </div>
+
+<h2 align="left"> :zap: Let's talk!</h2>
+
+<a href="https://alexnastase.com">
+    <h2 align="center">
+        alexnastase.com
+    </h2>
+</a>
+<p align="center">
+<a href="https://github.com/AlexandruNst"><img align="center" src="img/github_color.svg" width="7%"</a>
+<a href="https://www.linkedin.com/in/alexandrunst/"><img align="center" src="img/linkedin_color.svg" width="7%"</a>
+<a href="https://www.instagram.com/alexandru.codes/"><img align="center" src="img/insta_color.svg" width="7%"</a>
+</p>
 
 <!--
 **AlexandruNst/AlexandruNst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
