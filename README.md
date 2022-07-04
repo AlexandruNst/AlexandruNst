@@ -9,7 +9,7 @@
             🔭 Aspiring Front-End Developer 
         </li>
         <li>
-            🌱 Currently learning: ReactJS
+            🌱 Currently learning: React
         </li>
         <li>
             :bulb: Creative coder
